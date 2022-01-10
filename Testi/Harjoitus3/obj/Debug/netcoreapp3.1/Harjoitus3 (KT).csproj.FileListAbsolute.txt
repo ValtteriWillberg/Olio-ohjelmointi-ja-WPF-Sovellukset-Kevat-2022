@@ -1,0 +1,14 @@
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\bin\Debug\netcoreapp3.1\Harjoitus3 (KT).exe
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\bin\Debug\netcoreapp3.1\Harjoitus3 (KT).deps.json
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\bin\Debug\netcoreapp3.1\Harjoitus3 (KT).runtimeconfig.json
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\bin\Debug\netcoreapp3.1\Harjoitus3 (KT).runtimeconfig.dev.json
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\bin\Debug\netcoreapp3.1\Harjoitus3 (KT).dll
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\bin\Debug\netcoreapp3.1\Harjoitus3 (KT).pdb
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).csproj.AssemblyReference.cache
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).AssemblyInfoInputs.cache
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).AssemblyInfo.cs
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).csproj.CoreCompileInputs.cache
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).dll
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).pdb
+C:\Users\valtteri.willberg\source\repos\ValtteriWillberg\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Testi\Harjoitus3\obj\Debug\netcoreapp3.1\Harjoitus3 (KT).genruntimeconfig.cache
