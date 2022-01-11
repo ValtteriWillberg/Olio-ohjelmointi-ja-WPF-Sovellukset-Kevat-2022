@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Testi",
+    "\\Testi\\Harjoitus4 (KT)",
+    "\\Testi\\Testi"
   ],
-  "SelectedNode": "\\C:\\Users\\valtteri.willberg\\Source\\Repos\\ValtteriWillberg\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022",
+  "SelectedNode": "\\Testi\\Harjoitus4 (KT)\\Kappale.cs",
   "PreviewInSolutionExplorer": false
 }
